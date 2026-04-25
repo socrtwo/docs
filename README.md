@@ -1,5 +1,10 @@
 # Mintlify Starter Kit
 
+<!--PAGES_LINK_BANNER-->
+> 🌐 **Live page:** [https://socrtwo.github.io/docs/](https://socrtwo.github.io/docs/)  
+> 📦 **Releases:** [github.com/socrtwo/docs/releases](https://github.com/socrtwo/docs/releases)
+<!--/PAGES_LINK_BANNER-->
+
 Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
 
 - Guide pages
